@@ -1,5 +1,6 @@
 # volume_control_app
 一款简易的键盘控制系统音量的工具
+运行文件，已经发布到了v1.0.0中，可以点击获取。
 运行图片：
 
 <img width="271" height="160" alt="image" src="https://github.com/user-attachments/assets/65b8ffe7-0442-402b-ab8c-5b40ed70a0cf" />
@@ -74,3 +75,6 @@ python build.py
 3. 如需自定义图标，请将icon.ico文件放入assets目录
 4. 开机自启功能会将程序路径写入Windows注册表
 5. 程序支持开发环境和打包后环境的开机自启设置
+
+# 声明
+其他第三方任何平台、任何人均不得搬运此项目到任何平台、任何文件，仅用于个人的技术交流、测试。
