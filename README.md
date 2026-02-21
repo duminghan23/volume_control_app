@@ -1,5 +1,8 @@
 # volume_control_app
 一款简易的键盘控制系统音量的工具
+运行图片：
+<img width="271" height="160" alt="image" src="https://github.com/user-attachments/assets/65b8ffe7-0442-402b-ab8c-5b40ed70a0cf" />
+<img width="215" height="113" alt="image" src="https://github.com/user-attachments/assets/67b9393d-cbb1-4619-9117-d26806daf7c0" />
 
 # 音量控制托盘程序
 
