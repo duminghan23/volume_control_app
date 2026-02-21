@@ -42,7 +42,7 @@ python main.py
 
 ### 打包成可执行文件
 ```bash
-# 使用构建脚本
+# 使用构建脚本，有两个build文件，使用的两个不同的打包方案，测试的时候均可以使用
 cd build
 python build.py
 ```
