@@ -1,0 +1,5 @@
+pycaw==20251023
+comtypes==1.4.15
+keyboard==0.13.5
+PyQt5==5.15.10
+Nuitka==2.4.10
