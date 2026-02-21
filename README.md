@@ -29,9 +29,9 @@ volume_control_app/
 ## 功能特性
 
 - 🎵 系统托盘运行，不占用桌面空间
-- 🔇 Alt+Delete 切换系统静音状态
-- 🔊 Alt+Home 增加音量3%
-- 🔉 Alt+End 降低音量3%
+- 🔇 win+Delete 切换系统静音状态
+- 🔊 win+Home 增加音量3%
+- 🔉 win+End 降低音量3%
 - 🖱️ 右键托盘图标可退出程序
 - ⚡ 支持开机自启功能（右键菜单设置）
 
