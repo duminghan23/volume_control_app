@@ -10,6 +10,7 @@ from PyQt5.QtWidgets import QSystemTrayIcon, QMenu, QAction, QApplication, QStyl
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import QCoreApplication
 
+
 class SystemTrayApp:
     def __init__(self):
         self.app = QApplication.instance()
