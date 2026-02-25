@@ -7,6 +7,7 @@
 import sys
 from PyQt5.QtWidgets import QApplication
 from tray_app import SystemTrayApp
+from volume_controller import VolumeController
 
 
 def main():
@@ -16,7 +17,6 @@ def main():
     tray_app = SystemTrayApp()
     
     # 启动音量控制监听
-    from volume_controller import VolumeController
     volume_controller = VolumeController()
     
     # 运行应用
